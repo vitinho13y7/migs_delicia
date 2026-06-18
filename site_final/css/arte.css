@@ -131,7 +131,7 @@ body {
 }
 
 .logo-icon i {
-    color: #ffffff !important; /* branco */
+    color: #ffffff important; /* branco */
 }
 
 .nav-menu ul {
