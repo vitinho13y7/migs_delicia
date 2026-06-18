@@ -130,6 +130,10 @@ body {
     letter-spacing: 1px;
 }
 
+.logo-icon i {
+    color: #ffffff !important; /* branco */
+}
+
 .nav-menu ul {
     display: flex;
     gap: 32px;
