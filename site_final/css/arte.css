@@ -1300,3 +1300,15 @@ body {
         padding: 60px 0;
     }
 }
+
+
+/* ##################################################3 */
+
+.logo-link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.logo-link:hover {
+    color: inherit;
+}
